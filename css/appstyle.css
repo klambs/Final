@@ -1,0 +1,40 @@
+html, body
+{	
+	height: 98%;
+	width: 98%;
+}
+
+body{background-image: url("https://c2.staticflickr.com/6/5557/14251613355_6192bd578b_b.jpg");
+	background-size: cover;
+    background-repeat: no-repeat;
+}
+
+h3 {color:white;
+	height: 4%;
+	user-select: none;
+	text-align: center;
+	font-family: "Comic Sans MS", cursive, sans-serif;
+	font-size: 30px;
+}
+
+h4 {color:white;
+	height: 3%;
+	text-align: center;
+	font-family: "Comic Sans MS", cursive, sans-serif;
+	font-style: normal;
+}
+
+
+#mySVGCanvas {
+	border: 1px solid #29293D;
+	width: 600px;
+	height: 400px;
+	margin: auto;
+	background-color: white;
+	background-size: 600px 400px; 
+	background-repeat: no-repeat;
+}
+
+/* Start http://www.cursors-4u.com */ body, a:hover {cursor: url(http://cur.cursors-4u.net/food/foo-1/foo17.cur), progress !important;} /* End http://www.cursors-4u.com */
+
+
